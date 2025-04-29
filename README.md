@@ -4,6 +4,7 @@ Analyze monthly revenue and order volume from sales data.
 ## Tools Used:
 - MySQL
 - MySQL Workbench (Table Import Wizard)
+- Kaggle
 
 ## Key Actions:
 - Imported CSV via Table Import Wizard
